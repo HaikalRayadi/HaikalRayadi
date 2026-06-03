@@ -53,8 +53,13 @@ Daripada hanya menulis keahlian, ini adalah beberapa proyek utama yang sedang/te
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HaikalRayadi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Statistik GitHub Haikal" height="192px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaikalRayadi&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Bahasa Teratas Haikal" height="192px" />
+  <!-- GitHub Streak Stats (Server ini sangat tahan banting dan stabil) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HaikalRayadi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <!-- GitHub Metrics by Lecoq (Provider alternatif yang jauh lebih lengkap dan elegan) -->
+  <img src="https://metrics.lecoq.io/HaikalRayadi?template=classic&base=header,activity,repositories,languages&config.timezone=Asia%2FJakarta" alt="GitHub Metrics" width="600" />
 </p>
 
 ---
