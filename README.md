@@ -41,6 +41,24 @@ Seorang mahasiswa IT yang berfokus pada pengembangan perangkat lunak modern, mul
 
 ---
 
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=HaikalRayadi&theme=algolia&no-frame=true&no-bg=true&margin-w=10"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=HaikalRayadi&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaikalRayadi&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+---
+
 # ⚡ Tech Stack & Tools
 
 <div align="center">
