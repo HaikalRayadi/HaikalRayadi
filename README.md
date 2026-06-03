@@ -1,4 +1,9 @@
 # Halo, Saya Haikal Rayadi! 👋
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F52FF&center=true&vCenter=true&width=600&lines=Mahasiswa+IT+Politeknik+Caltex+Riau;Android+%26+Kotlin+Developer;WebGIS+Enthusiast;Machine+Learning+%26+NLP+Learner" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HaikalRayadi&label=Profil%20Dilihat&color=0e76a8&style=flat-square" alt="HaikalRayadi" />
