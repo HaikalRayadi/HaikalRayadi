@@ -65,6 +65,17 @@ Daripada hanya menulis keahlian, ini adalah beberapa proyek utama yang sedang/te
 
 ---
 
+### 👾 Take a Break: Space Shooter
+
+<p align="center">
+  <!-- Jika gh-space-shooter yang kamu maksud menggunakan GitHub Actions (seperti snake game), letakkan tag <!-- start --> dan <!-- end --> dari repository mereka di bawah ini -->
+  <a href="https://github.com/HaikalRayadi">
+    <img src="https://gh-space-shooter.vercel.app/api?user=HaikalRayadi" alt="Space Shooter Game" />
+  </a>
+</p>
+
+---
+
 ### 📬 Mari Terhubung
 
 <p align="left">
