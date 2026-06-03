@@ -46,6 +46,11 @@ Daripada hanya menulis keahlian, ini adalah beberapa proyek utama yang sedang/te
 ---
 
 ### 📊 GitHub Analytics
+### 🧊 3D Contribution Graph
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HaikalRayadi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Statistik GitHub Haikal" height="192px" />
