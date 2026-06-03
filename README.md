@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXR6MHd1MjFpMWxxdGVqZ2t4cmZuNXNiM2E1N2w1dHQwczNvODhheCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/s1tAtvJLIYiVWNaCqy/giphy.gif" width="180" alt="Welcome Animation">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXR6MHd1MjFpMWxxdGVqZ2t4cmZuNXNiM2E1N2w1dHQwczNvODhheCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/s1tAtvJLIYiVWNaCqy/giphy.gif" width="160" alt="Welcome Animation">
 </div>
 
 <h1 align="center">Hi there, I'm Haikal! 👋</h1>
@@ -16,6 +16,25 @@
 
 ---
 
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,js,react,nextjs,vite,laravel,leaflet&theme=dark" alt="Frontend, Backend, Mobile, & GIS Skills" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,scikitlearn,blender,git,github,vscode&theme=dark" alt="Data Science, 3D & Tools Skills" />
+</p>
+
+---
+
+### 👾 Take a Break: Space Shooter
+
+<p align="center">
+  <img src="game.gif" alt="My GitHub Space Shooter Game" />
+</p>
+
+---
+
 ### 🚀 Highlight Proyek & Portofolio
 
 Daripada hanya menulis keahlian, ini adalah beberapa proyek utama yang sedang/telah saya kembangkan:
@@ -24,32 +43,6 @@ Daripada hanya menulis keahlian, ini adalah beberapa proyek utama yang sedang/te
 - 🗺️ **SIG Bank Sampah Kota Pekanbaru:** Sistem Informasi Geografis berbasis web menggunakan Leaflet untuk pemetaan dan analisis volume sampah.
 - 📊 **Big Data Analysis (PySpark):** Pemrosesan dan analisis data klaim asuransi kesehatan menggunakan *pipeline* Big Data.
 - 🎬 **Animasi 3D Legenda Putri Tujuh:** Perancangan media edukasi budaya interaktif menggunakan metode pengembangan MDLC.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
-  <br>
-  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" alt="Leaflet" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
----
-
-### 🧊 3D Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HaikalRayadi/HaikalRayadi/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
-</p>
 
 ---
 
@@ -63,19 +56,19 @@ Daripada hanya menulis keahlian, ini adalah beberapa proyek utama yang sedang/te
   <img src="https://metrics.lecoq.io/HaikalRayadi?template=classic&base=header,activity,repositories,languages&config.timezone=Asia%2FJakarta" alt="GitHub Metrics" width="600" />
 </p>
 
----
+<br>
 
-### 👾 Take a Break: Space Shooter
+### 🧊 3D Contribution Graph
 
 <p align="center">
-  <img src="game.gif" alt="My GitHub Space Shooter Game" />
+  <img src="https://raw.githubusercontent.com/HaikalRayadi/HaikalRayadi/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
 </p>
 
 ---
 
 ### 📬 Mari Terhubung
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/UsernameLinkedInKamu" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
