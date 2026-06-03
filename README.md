@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150" alt="Coding Cat">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXR6MHd1MjFpMWxxdGVqZ2t4cmZuNXNiM2E1N2w1dHQwczNvODhheCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/s1tAtvJLIYiVWNaCqy/giphy.gif" width="180" alt="Welcome Animation">
 </div>
 
 <h1 align="center">Hi there, I'm Haikal! 👋</h1>
@@ -45,20 +45,21 @@ Daripada hanya menulis keahlian, ini adalah beberapa proyek utama yang sedang/te
 
 ---
 
-### 📊 GitHub Analytics
 ### 🧊 3D Contribution Graph
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/HaikalRayadi/HaikalRayadi/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
 </p>
 
+---
+
+### 📊 GitHub Analytics & Activity
+
 <p align="center">
-  <!-- GitHub Streak Stats (Server ini sangat tahan banting dan stabil) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HaikalRayadi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <!-- GitHub Metrics by Lecoq (Provider alternatif yang jauh lebih lengkap dan elegan) -->
   <img src="https://metrics.lecoq.io/HaikalRayadi?template=classic&base=header,activity,repositories,languages&config.timezone=Asia%2FJakarta" alt="GitHub Metrics" width="600" />
 </p>
 
