@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXR6MHd1MjFpMWxxdGVqZ2t4cmZuNXNiM2E1N2w1dHQwczNvODhheCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/s1tAtvJLIYiVWNaCqy/giphy.gif" width="180" alt="Welcome Animation">
+  <img src="" width="180" alt="Welcome Animation">
 
 # 🚀 Hi there, I'm Haikal!
 
